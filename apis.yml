@@ -1,7 +1,27 @@
 aid: placester
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/placester.png
 name: Placester
-description: Placester is a company surfaced as a portfolio company of techstars and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Placester is a real estate marketing and technology platform that provides
+  IDX-enabled websites, CRM, lead generation, and marketing automation tools for
+  real estate agents, teams, and brokerages. Historically Placester published a
+  developer-facing Real Estate API (api.placester.com) for listings, contacts,
+  and website content, but the developer portal (developer.placester.com) now
+  redirects to a site-unavailable page, indicating the public developer program
+  is discontinued or inaccessible. This profile was surfaced as a Techstars
+  portfolio company and enriched by the API Evangelist pipeline; no accessible
+  public API surface, OpenAPI, or SDK was found at enrichment time.
 url: https://raw.githubusercontent.com/api-evangelist/placester/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Real Estate
+- Marketing
+- Websites
+- CRM
+- Lead Generation
+- IDX
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +50,12 @@ maintainers:
 common:
 - type: Website
   url: https://placester.com/
+- type: GitHubOrganization
+  url: https://github.com/placester
+- type: DomainSecurity
+  url: security/placester-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
