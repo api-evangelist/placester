@@ -1,0 +1,27 @@
+# Front Door AI Index — placester — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: placester
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: placester.com
+  final_host: placester.com
+  ownership: own
+  owner: placester
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 20
+  host_score: 20
+  density: 15.82
+  words: 1264
+  tiers:
+    agentic: 0
+    core: 20
+    model: 0
+  ambiguous: 21
+  top_terms:
+    AI: 20
+    agent: 18
+    automation: 3
