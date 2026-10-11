@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "placester",
+    "captured_at": "2026-10-11T192758",
+    "source_url": "https://placester.com/",
+    "source_type": "Website",
+    "file": "placester-2026-10-11T192758.png",
+    "bytes": 443328,
+    "capture": "playwright-local"
+  }
+]
