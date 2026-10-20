@@ -14,6 +14,7 @@
   evidence: https://zapier.com/apps/liondesk-crm/integrations/placester/200465/create-liondesk-contacts-for-new-placester-contact-form-submissions
   template: https://zapier.com/apps/liondesk-crm/integrations/placester/200465/create-liondesk-contacts-for-new-placester-contact-form-submissions
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: placester-update-follow-up-boss-contacts-with-updated-placester-website-leads
@@ -28,6 +29,7 @@
   evidence: https://zapier.com/apps/follow-up-boss/integrations/placester/193675/update-follow-up-boss-contacts-with-updated-placester-website-leads
   template: https://zapier.com/apps/follow-up-boss/integrations/placester/193675/update-follow-up-boss-contacts-with-updated-placester-website-leads
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: placester-create-top-producer-contacts-from-new-placester-website-lead
@@ -41,6 +43,7 @@
   evidence: https://zapier.com/apps/placester/integrations/top-producer/199527/create-top-producer-contacts-from-new-placester-website-lead
   template: https://zapier.com/apps/placester/integrations/top-producer/199527/create-top-producer-contacts-from-new-placester-website-lead
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: placester-create-liondesk-contacts-from-new-placester-website-leads
@@ -54,6 +57,7 @@
   evidence: https://zapier.com/apps/liondesk-crm/integrations/placester/199534/create-liondesk-contacts-from-new-placester-website-leads
   template: https://zapier.com/apps/liondesk-crm/integrations/placester/199534/create-liondesk-contacts-from-new-placester-website-leads
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: placester-create-pipedrive-persons-from-new-placester-website-leads
@@ -68,6 +72,7 @@
   evidence: https://zapier.com/apps/pipedrive/integrations/placester/200219/create-pipedrive-persons-from-new-placester-website-leads
   template: https://zapier.com/apps/pipedrive/integrations/placester/200219/create-pipedrive-persons-from-new-placester-website-leads
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: placester-create-ixact-contact-contacts-from-new-placester-website-leads
@@ -81,6 +86,7 @@
   evidence: https://zapier.com/apps/ixact-contact-crm/integrations/placester/200341/create-ixact-contact-contacts-from-new-placester-website-leads
   template: https://zapier.com/apps/ixact-contact-crm/integrations/placester/200341/create-ixact-contact-contacts-from-new-placester-website-leads
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: placester-add-new-placester-website-leads-to-google-sheets-spreadsheets
@@ -95,282 +101,7 @@
   evidence: https://zapier.com/apps/google-sheets/integrations/placester/200359/add-new-placester-website-leads-to-google-sheets-spreadsheets
   template: https://zapier.com/apps/google-sheets/integrations/placester/200359/add-new-placester-website-leads-to-google-sheets-spreadsheets
   source: template
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-leadconnector
-  label: LeadConnector
-  partner_name: LeadConnector
-  category: Marketing Automation
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/leadconnector
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-mailchimp
-  label: Mailchimp
-  partner: mailchimp
-  partner_name: Mailchimp
-  category: Marketing Automation
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/mailchimp
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-constant-contact
-  label: Constant Contact
-  partner: constant-contact
-  partner_name: Constant Contact
-  category: Email Newsletters
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/constant-contact
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-clickup
-  label: ClickUp
-  partner: clickup
-  partner_name: ClickUp
-  category: Project Management
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/clickup
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-keller-williams-command
-  label: Keller Williams Command
-  partner: keller-williams
-  partner_name: Keller Williams Command
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/kwcommand
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-brevo
-  label: Brevo
-  partner: brevo
-  partner_name: Brevo
-  category: Email Newsletters
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/brevo
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-kvcore
-  label: kvCORE
-  partner_name: kvCORE
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/kvcore
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-gmail
-  label: Gmail
-  partner: gmail
-  partner_name: Gmail
-  category: Email
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/gmail
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-monday-com
-  label: monday.com
-  partner_name: monday.com
-  category: Project Management
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/monday
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-facebook-pages
-  label: Facebook Pages
-  partner_name: Facebook Pages
-  category: Facebook
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/facebook-pages
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-copper
-  label: Copper
-  partner: copper
-  partner_name: Copper
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/copper
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-real-geeks
-  label: Real Geeks
-  partner_name: Real Geeks
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/real-geeks
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-realeflow
-  label: Realeflow
-  partner_name: Realeflow
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/realeflow
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-compass
-  label: Compass
-  partner: compass
-  partner_name: Compass
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/compass-da26590
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-listings-to-leads
-  label: Listings To Leads
-  partner_name: Listings To Leads
-  category: Marketing
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/listings-to-leads
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-google-contacts
-  label: Google Contacts
-  partner_name: Google Contacts
-  category: Contact Management
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/google-contacts
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-anthropic-claude
-  label: Anthropic (Claude)
-  partner_name: Anthropic (Claude)
-  category: AI Models
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/anthropic-claude
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-pdf-co
-  label: PDF.co
-  partner: pdf-co
-  partner_name: PDF.co
-  category: Documents
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/pdfco
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-vivomeetings
-  label: VivoMeetings
-  partner_name: VivoMeetings
-  category: Video Conferencing
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/vivomeetings
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-facebook-lead-ads
-  label: Facebook Lead Ads
-  partner: facebook-lead-ads
-  partner_name: Facebook Lead Ads
-  category: Ads & Conversion
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/facebook-lead-ads
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-google-tasks
-  label: Google Tasks
-  partner: google-tasks
-  partner_name: Google Tasks
-  category: Google
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/google-tasks
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-tiktok-conversions
-  label: TikTok Conversions
-  partner_name: TikTok Conversions
-  category: Ads & Conversion
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/tiktok-conversion
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-zillow-tech-connect
-  label: Zillow Tech Connect
-  partner: zillow
-  partner_name: Zillow Tech Connect
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/zillow
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: placester-smith-ai
-  label: Smith.ai
-  partner_name: Smith.ai
-  category: Phone & SMS
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/smithai-zapier-app-da100556
-  source: edge
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: placester-zapier
@@ -397,4 +128,308 @@
     beta: false
     builder: unknown (not in the directory record)
   status: not-a-workflow
+  arazzo: null
+- slug: placester-leadconnector
+  label: LeadConnector
+  partner_name: LeadConnector
+  category: Marketing Automation
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/leadconnector
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-mailchimp
+  label: Mailchimp
+  partner: mailchimp
+  partner_name: Mailchimp
+  category: Marketing Automation
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/mailchimp
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-constant-contact
+  label: Constant Contact
+  partner: constant-contact
+  partner_name: Constant Contact
+  category: Email Newsletters
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/constant-contact
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-clickup
+  label: ClickUp
+  partner: clickup
+  partner_name: ClickUp
+  category: Project Management
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/clickup
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-keller-williams-command
+  label: Keller Williams Command
+  partner: keller-williams
+  partner_name: Keller Williams Command
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/kwcommand
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-brevo
+  label: Brevo
+  partner: brevo
+  partner_name: Brevo
+  category: Email Newsletters
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/brevo
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-kvcore
+  label: kvCORE
+  partner_name: kvCORE
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/kvcore
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-gmail
+  label: Gmail
+  partner: gmail
+  partner_name: Gmail
+  category: Email
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/gmail
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-monday-com
+  label: monday.com
+  partner: monday-com
+  partner_name: monday.com
+  category: Project Management
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/monday
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-facebook-pages
+  label: Facebook Pages
+  partner: facebook-pages
+  partner_name: Facebook Pages
+  category: Facebook
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/facebook-pages
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-copper
+  label: Copper
+  partner: copper
+  partner_name: Copper
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/copper
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-real-geeks
+  label: Real Geeks
+  partner_name: Real Geeks
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/real-geeks
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-realeflow
+  label: Realeflow
+  partner_name: Realeflow
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/realeflow
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-compass
+  label: Compass
+  partner: compass
+  partner_name: Compass
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/compass-da26590
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-listings-to-leads
+  label: Listings To Leads
+  partner_name: Listings To Leads
+  category: Marketing
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/listings-to-leads
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-google-contacts
+  label: Google Contacts
+  partner: google
+  partner_name: Google Contacts
+  category: Contact Management
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/google-contacts
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-anthropic-claude
+  label: Anthropic (Claude)
+  partner: anthropic
+  partner_name: Anthropic (Claude)
+  category: AI Models
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/anthropic-claude
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-pdf-co
+  label: PDF.co
+  partner: pdf-co
+  partner_name: PDF.co
+  category: Documents
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/pdfco
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-vivomeetings
+  label: VivoMeetings
+  partner_name: VivoMeetings
+  category: Video Conferencing
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/vivomeetings
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-facebook-lead-ads
+  label: Facebook Lead Ads
+  partner: facebook-lead-ads
+  partner_name: Facebook Lead Ads
+  category: Ads & Conversion
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/facebook-lead-ads
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-google-tasks
+  label: Google Tasks
+  partner: google-tasks
+  partner_name: Google Tasks
+  category: Google
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/google-tasks
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-tiktok-conversions
+  label: TikTok Conversions
+  partner: tiktok
+  partner_name: TikTok Conversions
+  category: Ads & Conversion
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/tiktok-conversion
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-zillow-tech-connect
+  label: Zillow Tech Connect
+  partner_name: Zillow Tech Connect
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/zillow
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: placester-smith-ai
+  label: Smith.ai
+  partner_name: Smith.ai
+  category: Phone & SMS
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/placester/integrations/smithai-zapier-app-da100556
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
   arazzo: null

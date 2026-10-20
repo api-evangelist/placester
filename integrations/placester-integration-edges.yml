@@ -1,4 +1,4 @@
-generated: '2026-10-12'
+generated: '2026-10-20'
 method: searched
 source:
 - https://zapier.com/apps/placester/integrations
@@ -36,336 +36,6 @@ marketplace_apps:
   actions: []
   searches: []
 edges:
-- partner_name: Follow Up Boss
-  partner: follow-up-boss
-  partner_match: domain
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/follow-up-boss
-  direction: third-party
-  category: CRM (Customer Relationship Management)
-  partner_url: http://www.followupboss.com/
-- partner_name: LionDesk
-  partner: null
-  partner_match: null
-  partner_candidate: zapier
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/liondesk-crm
-  direction: third-party
-  category: CRM (Customer Relationship Management)
-  partner_url: https://zapier.com/www.liondesk.com
-- partner_name: LeadConnector
-  partner: null
-  partner_match: null
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/leadconnector
-  direction: third-party
-  category: Marketing Automation
-  partner_url: https://www.leadconnectorhq.com/
-- partner_name: Mailchimp
-  partner: mailchimp
-  partner_match: name-exact
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/mailchimp
-  direction: third-party
-  category: Marketing Automation
-  partner_url: https://mailchimp.com/
-- partner_name: Top Producer
-  partner: null
-  partner_match: null
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/top-producer
-  direction: third-party
-  category: CRM (Customer Relationship Management)
-  partner_url: https://topproducer.com/
-- partner_name: Constant Contact
-  partner: constant-contact
-  partner_match: domain
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/constant-contact
-  direction: third-party
-  category: Email Newsletters
-  partner_url: http://www.constantcontact.com/signup.jsp?pn=zapier
-- partner_name: ClickUp
-  partner: clickup
-  partner_match: domain
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/clickup
-  direction: third-party
-  category: Project Management
-  partner_url: https://clickup.com/zapier
-- partner_name: Keller Williams Command
-  partner: keller-williams
-  partner_match: domain
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/kwcommand
-  direction: third-party
-  category: CRM (Customer Relationship Management)
-  partner_url: http://www.agent.kw.com/
-- partner_name: Pipedrive
-  partner: pipedrive
-  partner_match: domain
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/pipedrive
-  direction: third-party
-  category: CRM (Customer Relationship Management)
-  partner_url: https://pipedrive.com/
-- partner_name: IXACT Contact CRM
-  partner: null
-  partner_match: null
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/ixact-contact-crm
-  direction: third-party
-  category: CRM (Customer Relationship Management)
-  partner_url: http://www.ixactcontact.com/
-- partner_name: Google Sheets
-  partner: google-sheets
-  partner_match: name-exact
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/google-sheets
-  direction: third-party
-  category: Google
-  partner_url: http://sheets.google.com/
-- partner_name: Brevo
-  partner: brevo
-  partner_match: name-exact
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/brevo
-  direction: third-party
-  category: Email Newsletters
-  partner_url: https://www.sendinblue.com/?utm_medium=plugin&utm_source=zapier
-- partner_name: kvCORE
-  partner: null
-  partner_match: null
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/kvcore
-  direction: third-party
-  category: CRM (Customer Relationship Management)
-  partner_url: https://www.insiderealestate.com/
-- partner_name: Gmail
-  partner: gmail
-  partner_match: name-exact
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/gmail
-  direction: third-party
-  category: Email
-  partner_url: https://mail.google.com/
-- partner_name: monday.com
-  partner: null
-  partner_match: null
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/monday
-  direction: third-party
-  category: Project Management
-  partner_url: https://monday.com/
-- partner_name: Facebook Pages
-  partner: null
-  partner_match: null
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/facebook-pages
-  direction: third-party
-  category: Facebook
-  partner_url: https://facebook.com/
-- partner_name: Copper
-  partner: copper
-  partner_match: domain
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/copper
-  direction: third-party
-  category: CRM (Customer Relationship Management)
-  partner_url: https://copper.com/?utm_source=zapier&utm_medium=zapier
-- partner_name: Real Geeks
-  partner: null
-  partner_match: null
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/real-geeks
-  direction: third-party
-  category: CRM (Customer Relationship Management)
-  partner_url: https://www.realgeeks.com/
-- partner_name: Realeflow
-  partner: null
-  partner_match: null
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/realeflow
-  direction: third-party
-  category: CRM (Customer Relationship Management)
-  partner_url: https://realeflow.com/
-- partner_name: Compass
-  partner: compass
-  partner_match: name-exact
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/compass-da26590
-  direction: third-party
-  category: CRM (Customer Relationship Management)
-  partner_url: https://zapier.com/compass.com
-- partner_name: Listings To Leads
-  partner: null
-  partner_match: null
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/listings-to-leads
-  direction: third-party
-  category: Marketing
-  partner_url: https://www.listingstoleads.com/
-- partner_name: Google Contacts
-  partner: null
-  partner_match: null
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/google-contacts
-  direction: third-party
-  category: Contact Management
-  partner_url: https://www.google.com/contacts/
-- partner_name: Anthropic (Claude)
-  partner: null
-  partner_match: null
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/anthropic-claude
-  direction: third-party
-  category: AI Models
-  partner_url: https://www.anthropic.com/
-- partner_name: PDF.co
-  partner: pdf-co
-  partner_match: domain
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/pdfco
-  direction: third-party
-  category: Documents
-  partner_url: https://pdf.co/integrations/zapier?utm_source=zapier&utm_medium=app_page&utm_content=learn_more
-- partner_name: VivoMeetings
-  partner: null
-  partner_match: null
-  partner_candidate: zapier
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/vivomeetings
-  direction: third-party
-  category: Video Conferencing
-  partner_url: https://zapier.com/www.vivomeetings.com
-- partner_name: Facebook Lead Ads
-  partner: facebook-lead-ads
-  partner_match: name-exact
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/facebook-lead-ads
-  direction: third-party
-  category: Ads & Conversion
-  partner_url: https://www.facebook.com/business/ads/lead-ads
-- partner_name: Google Tasks
-  partner: google-tasks
-  partner_match: name-exact
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/google-tasks
-  direction: third-party
-  category: Google
-  partner_url: https://google.com/
-- partner_name: TikTok Conversions
-  partner: null
-  partner_match: null
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/tiktok-conversion
-  direction: third-party
-  category: Ads & Conversion
-  partner_url: https://ads.tiktok.com/
-- partner_name: Zillow Tech Connect
-  partner: zillow
-  partner_match: domain
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/zillow
-  direction: third-party
-  category: CRM (Customer Relationship Management)
-  partner_url: https://www.zillow.com/
-- partner_name: Smith.ai
-  partner: null
-  partner_match: null
-  partner_candidate: null
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/placester/integrations/smithai-zapier-app-da100556
-  direction: third-party
-  category: Phone & SMS
-  partner_url: http://smith.ai/
 - partner_name: Zapier
   partner: zapier
   partner_match: aggregator
@@ -391,6 +61,366 @@ edges:
     builder: unknown (not in the directory record)
   detected_by: sweep-workflow-automation.py
   first_seen: '2026-10-15'
+- partner_name: Follow Up Boss
+  partner: follow-up-boss
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/follow-up-boss
+  direction: third-party
+  category: CRM (Customer Relationship Management)
+  partner_url: http://www.followupboss.com/
+- partner_name: LionDesk
+  partner: null
+  partner_match: null
+  partner_candidate: zapier
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/liondesk-crm
+  direction: third-party
+  category: CRM (Customer Relationship Management)
+  partner_url: https://zapier.com/www.liondesk.com
+- partner_name: LeadConnector
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/leadconnector
+  direction: third-party
+  category: Marketing Automation
+  partner_url: https://www.leadconnectorhq.com/
+- partner_name: Mailchimp
+  partner: mailchimp
+  partner_match: domain+name-among-holders
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/mailchimp
+  direction: third-party
+  category: Marketing Automation
+  partner_url: https://mailchimp.com/
+- partner_name: Top Producer
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/top-producer
+  direction: third-party
+  category: CRM (Customer Relationship Management)
+  partner_url: https://topproducer.com/
+- partner_name: Constant Contact
+  partner: constant-contact
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/constant-contact
+  direction: third-party
+  category: Email Newsletters
+  partner_url: http://www.constantcontact.com/signup.jsp?pn=zapier
+- partner_name: ClickUp
+  partner: clickup
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/clickup
+  direction: third-party
+  category: Project Management
+  partner_url: https://clickup.com/zapier
+- partner_name: Keller Williams Command
+  partner: keller-williams
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/kwcommand
+  direction: third-party
+  category: CRM (Customer Relationship Management)
+  partner_url: http://www.agent.kw.com/
+- partner_name: Pipedrive
+  partner: pipedrive
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/pipedrive
+  direction: third-party
+  category: CRM (Customer Relationship Management)
+  partner_url: https://pipedrive.com/
+- partner_name: IXACT Contact CRM
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/ixact-contact-crm
+  direction: third-party
+  category: CRM (Customer Relationship Management)
+  partner_url: http://www.ixactcontact.com/
+- partner_name: Google Sheets
+  partner: google-sheets
+  partner_match: domain+name-among-holders
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/google-sheets
+  direction: third-party
+  category: Google
+  partner_url: http://sheets.google.com/
+- partner_name: Brevo
+  partner: brevo
+  partner_match: name-exact
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/brevo
+  direction: third-party
+  category: Email Newsletters
+  partner_url: https://www.sendinblue.com/?utm_medium=plugin&utm_source=zapier
+- partner_name: kvCORE
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/kvcore
+  direction: third-party
+  category: CRM (Customer Relationship Management)
+  partner_url: https://www.insiderealestate.com/
+- partner_name: Gmail
+  partner: gmail
+  partner_match: domain+name-among-holders
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/gmail
+  direction: third-party
+  category: Email
+  partner_url: https://mail.google.com/
+- partner_name: monday.com
+  partner: monday-com
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/monday
+  direction: third-party
+  category: Project Management
+  partner_url: https://monday.com/
+- partner_name: Facebook Pages
+  partner: facebook-pages
+  partner_match: domain+name-among-holders
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/facebook-pages
+  direction: third-party
+  category: Facebook
+  partner_url: https://facebook.com/
+- partner_name: Copper
+  partner: copper
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/copper
+  direction: third-party
+  category: CRM (Customer Relationship Management)
+  partner_url: https://copper.com/?utm_source=zapier&utm_medium=zapier
+- partner_name: Real Geeks
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/real-geeks
+  direction: third-party
+  category: CRM (Customer Relationship Management)
+  partner_url: https://www.realgeeks.com/
+- partner_name: Realeflow
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/realeflow
+  direction: third-party
+  category: CRM (Customer Relationship Management)
+  partner_url: https://realeflow.com/
+- partner_name: Compass
+  partner: compass
+  partner_match: name-exact
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/compass-da26590
+  direction: third-party
+  category: CRM (Customer Relationship Management)
+  partner_url: https://zapier.com/compass.com
+- partner_name: Listings To Leads
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/listings-to-leads
+  direction: third-party
+  category: Marketing
+  partner_url: https://www.listingstoleads.com/
+- partner_name: Google Contacts
+  partner: google
+  partner_match: domain+name-among-holders
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/google-contacts
+  direction: third-party
+  category: Contact Management
+  partner_url: https://www.google.com/contacts/
+- partner_name: Anthropic (Claude)
+  partner: anthropic
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/anthropic-claude
+  direction: third-party
+  category: AI Models
+  partner_url: https://www.anthropic.com/
+- partner_name: PDF.co
+  partner: pdf-co
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/pdfco
+  direction: third-party
+  category: Documents
+  partner_url: https://pdf.co/integrations/zapier?utm_source=zapier&utm_medium=app_page&utm_content=learn_more
+- partner_name: VivoMeetings
+  partner: null
+  partner_match: null
+  partner_candidate: zapier
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/vivomeetings
+  direction: third-party
+  category: Video Conferencing
+  partner_url: https://zapier.com/www.vivomeetings.com
+- partner_name: Facebook Lead Ads
+  partner: facebook-lead-ads
+  partner_match: domain+name-among-holders
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/facebook-lead-ads
+  direction: third-party
+  category: Ads & Conversion
+  partner_url: https://www.facebook.com/business/ads/lead-ads
+- partner_name: Google Tasks
+  partner: google-tasks
+  partner_match: domain+name-among-holders
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/google-tasks
+  direction: third-party
+  category: Google
+  partner_url: https://google.com/
+- partner_name: TikTok Conversions
+  partner: tiktok
+  partner_match: domain+name-among-holders
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/tiktok-conversion
+  direction: third-party
+  category: Ads & Conversion
+  partner_url: https://ads.tiktok.com/
+- partner_name: Zillow Tech Connect
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/zillow
+  direction: third-party
+  category: CRM (Customer Relationship Management)
+  partner_url: https://www.zillow.com/
+- partner_name: Smith.ai
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  relationship: ipaas-bridge
+  evidence: https://zapier.com/apps/placester/integrations/smithai-zapier-app-da100556
+  direction: third-party
+  category: Phone & SMS
+  partner_url: http://smith.ai/
 templates:
 - title: Get Slack channel notifications for new Placester website leads
   url: https://zapier.com/apps/placester/integrations/slack/200380/get-slack-channel-notifications-for-new-placester-website-leads
